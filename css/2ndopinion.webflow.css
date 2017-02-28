@@ -146,6 +146,7 @@ label {
 .main-form-input {
   display: block;
   width: 100%;
+  min-height: 100px;
   min-width: 100%;
   margin-bottom: 40px;
   padding-right: 0px;
@@ -213,6 +214,7 @@ html.w-mod-js *[data-ix="display-none"] {
   .main-form-input {
     display: block;
     width: 100%;
+    min-height: 100px;
     min-width: 100%;
     margin-top: 0px;
     padding-left: 125px;
@@ -255,6 +257,7 @@ html.w-mod-js *[data-ix="display-none"] {
   }
   .main-form-input {
     display: block;
+    min-height: 100px;
     width: 100%;
     margin: -50px auto 30px;
     padding-left: 0px;
@@ -371,6 +374,7 @@ html.w-mod-js *[data-ix="display-none"] {
   }
   .main-form-input {
     display: block;
+    min-height: 100px;
     width: 100%;
     min-width: 100%;
     margin-top: 0px;
